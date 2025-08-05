@@ -25,6 +25,22 @@ main li img {
   object-fit: cover;
 }
 
+.actions {
+  margin: 80px 10px 0 320px;
+}
+
+.actions a {
+  text-decoration: none;
+  color: rgb(0, 122, 204);
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+
+.actions a:hover {
+  text-decoration: none;
+  background-color: rgb(142, 212, 249);
+}
+
 .item-content {
   padding: 24px;
 }
