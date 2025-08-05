@@ -48,6 +48,10 @@
     background-color: rgb(255, 238, 0);
 }
 
+#highlights {
+  padding: 24px;
+}
+
 #highlights h2 {
 text-transform:uppercase;
 text-align: center;
@@ -61,7 +65,9 @@ margin: 24px 0;
   width: 90%;
   margin: auto;
   margin-bottom: 40px;
+  justify-content: center;
 }
+
 .destination {
   margin: 0 20px;
   text-transform: uppercase;
